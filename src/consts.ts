@@ -1,5 +1,5 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = "PlanetHare";
-export const SITE_DESCRIPTION = "Welcome to PlanetHare";
+export const SITE_TITLE = "PlanetHare.org";
+export const SITE_DESCRIPTION = "Towards open geospatial";
