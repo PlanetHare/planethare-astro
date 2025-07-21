@@ -2,4 +2,4 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = "PlanetHare.org";
-export const SITE_DESCRIPTION = "Towards open geospatial";
+export const SITE_DESCRIPTION = "Towards open geospatial for all planets";
